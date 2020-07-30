@@ -51,3 +51,10 @@ button {
     height: 30px;
     margin: 10px 0;
 }
+
+.launchReady-false {
+    color: red
+}
+.launchReady-true {
+    color: green
+}
